@@ -10,6 +10,7 @@ Our dataset, Crime Incidents in 2024, contains data reported by the District of 
 ## Question 1
 How do crime types vary by shift time?
 
+
 ### Importance
 This question is useful for the general public, law enforcement officers, as well as policymakers. The answers to this question allows for the education of the public on the most prevalent crimes, when they occur, and measures they can take to prevent crimes. In addition, law enforcement staffing and law enforcement patrol patterns may be evaluated for effectiveness or areas of potential change and improvement. Policymakers can use this question to develop crime prevention policies for societal safety and economic development. 
 
@@ -32,6 +33,9 @@ Arson and Homicide were excluded through a filter in the Offense category. This 
 
 ### Question 1
 
+<img width="1055" alt="Screenshot 2025-05-01 at 3 42 33 PM" src="https://github.com/user-attachments/assets/f1aad041-f97f-45ad-90a0-365298695fc3" />
+
+
 Results
 
 Theft is the most prevalent type of crime, with motor vehicle theft and other forms of theft occurring significantly more often than crimes like burglary or assault with a deadly weapon. Interestingly, despite the common perception that being out at night is more dangerous, crime rates are actually lower during the midnight shift compared to the day and evening shifts. In fact, day and evening shifts tend to experience similar levels of crime activity, challenging assumptions about when individuals are most at risk. In addition, burglary and assault with deadly weapons occur significantly less than motor vehicle theft and other theft crimes
@@ -42,6 +46,10 @@ Understanding time-specific crime trends can help law enforcement and city plann
 
 
 ### Question 2
+
+
+<img width="901" alt="Screenshot 2025-05-01 at 3 49 34 PM" src="https://github.com/user-attachments/assets/740ff3ad-e4f8-4717-8647-1415ed946047" />
+
 
 Results
 
